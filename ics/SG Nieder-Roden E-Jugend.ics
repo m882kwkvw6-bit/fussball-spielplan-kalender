@@ -1,0 +1,319 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fussball-spielplan-kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SG Nieder-Roden E-Jugend
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:504adc83605e77506b5d593394326a22c5579f855967968d990c36a71c279060@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20260815T100000
+DTEND;TZID=Europe/Berlin:20260815T114500
+SUMMARY:SG Nieder-Roden - SG Wiking 03 Offenbach 1 (9:4)
+DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/sg-nieder
+ -roden-sg-wiking-03-offenbach-1/-/spiel/031CJPUGG4000000VS5489BTVUS470OH
+URL:https://www.fussball.de/spiel/sg-nieder-roden-sg-wiking-03-offenbach-1/
+ -/spiel/031CJPUGG4000000VS5489BTVUS470OH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc340bc7ea2aed8f7308b9f4fe1919f028c5e728c6c320b09666d196b857d1c@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20260822T120000
+DTEND;TZID=Europe/Berlin:20260822T134500
+SUMMARY:S.K.G Rodgau - SG Nieder-Roden (8:2)
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/skg-rodg
+ au-sg-nieder-roden/-/spiel/031FP6ITM4000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/skg-rodgau-sg-nieder-roden/-/spiel/031FP6
+ ITM4000000VS5489BTVVG7L386
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ca51aff712c06fcc7d2a2c2dcc08906293a01acc8b881cb3e34b4c6cb0f84a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20260830T110000
+DTEND;TZID=Europe/Berlin:20260830T124500
+SUMMARY:SG Nieder-Roden - S.K.G Rodgau (2:7)
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/sg-nieder-roden-skg-rodgau/-/spiel/031SFH8KLK000000VS5489BUVVE0O1R6
+URL:https://www.fussball.de/spiel/sg-nieder-roden-skg-rodgau/-/spiel/031SFH
+ 8KLK000000VS5489BUVVE0O1R6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:605474b847f18fc5900c31a8e930c1db7e090534c72ef95eb277e66e13ea6f6d@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20260902T180000
+DTEND;TZID=Europe/Berlin:20260902T194500
+SUMMARY:SG Nieder-Roden - Gemaa Tempelsee OF (1:8)
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/sg-niede
+ r-roden-gemaa-tempelsee-of/-/spiel/031FP6IU80000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sg-nieder-roden-gemaa-tempelsee-of/-/spie
+ l/031FP6IU80000000VS5489BTVVG7L386
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d5eba6291d4dd0973957e8ae7f0975f0625819247d9ef26d6dbacd7cd6e7db8@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20260905T130000
+DTEND;TZID=Europe/Berlin:20260905T144500
+SUMMARY:SKG Rumpenheim - SG Nieder-Roden (2:3)
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/skg-rump
+ enheim-sg-nieder-roden/-/spiel/031FP6ITSG000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/skg-rumpenheim-sg-nieder-roden/-/spiel/03
+ 1FP6ITSG000000VS5489BTVVG7L386
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a17e8982941b00071cc6843785e02b723dc624dad246569d6e684d41db34669f@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20260912T100000
+DTEND;TZID=Europe/Berlin:20260912T114500
+SUMMARY:SG Nieder-Roden - TSV Dudenhofen I (2:2)
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/sg-niede
+ r-roden-tsv-dudenhofen-i/-/spiel/031FP6ITUG000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sg-nieder-roden-tsv-dudenhofen-i/-/spiel/
+ 031FP6ITUG000000VS5489BTVVG7L386
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:feeb8bfff0e7130e6ab6ad5fc4a9e74b9bc006195a4e7419cd1250aa0b815c40@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20260919T100000
+DTEND;TZID=Europe/Berlin:20260919T114500
+SUMMARY:SG Nieder-Roden - JFV Hainb-Seligenst (5:2)
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/sg-niede
+ r-roden-jfv-hainb-seligenst/-/spiel/031FP6IU00000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sg-nieder-roden-jfv-hainb-seligenst/-/spi
+ el/031FP6IU00000000VS5489BTVVG7L386
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:52e7e3f365c9b9bcf2895c311b4f9bcdeeb4bc747f0b6eb29c414550dc94360a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20260926T163000
+DTEND;TZID=Europe/Berlin:20260926T181500
+SUMMARY:SG Nieder-Roden - SG Hainhausen (1:6)
+DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/sg-niede
+ r-roden-sg-hainhausen/-/spiel/031FP6IU58000000VS5489BTVVG7L386
+URL:https://www.fussball.de/spiel/sg-nieder-roden-sg-hainhausen/-/spiel/031
+ FP6IU58000000VS5489BTVVG7L386
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ca51aff712c06fcc7d2a2c2dcc08906293a01acc8b881cb3e34b4c6cb0f84a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261015T173000
+DTEND;TZID=Europe/Berlin:20261015T191500
+SUMMARY:[Absetzung] SG Nieder-Roden - S.K.G Rodgau
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nStatus: Absetzung\nhttps:
+ //www.fussball.de/spiel/sg-nieder-roden-skg-rodgau/-/spiel/032C9RIR5S00000
+ 0VS5489BUVV5V31CI
+URL:https://www.fussball.de/spiel/sg-nieder-roden-skg-rodgau/-/spiel/032C9R
+ IR5S000000VS5489BUVV5V31CI
+STATUS:CANCELLED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:232d3be5efe765559bfb83d56af42c399d769caec23c7896ba26a0ad1697f2e7@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261017T113000
+DTEND;TZID=Europe/Berlin:20261017T131500
+SUMMARY:TSG Mainflingen I - SG Nieder-Roden (6:1)
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/tsg-mainflingen-i-sg-nieder-roden/-/spiel/032DJ2FAOS000000VS5489BTVU9
+ 89P58
+URL:https://www.fussball.de/spiel/tsg-mainflingen-i-sg-nieder-roden/-/spiel
+ /032DJ2FAOS000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4800455c3406daaa1b874b99dc2407e4649d7bde23ca1a61457510a9c045761a@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261024T113000
+DTEND;TZID=Europe/Berlin:20261024T131500
+SUMMARY:SG Wiking 03 Offenbach 1 - SG Nieder-Roden
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-wiking-03-offenbach-1-sg-nieder-roden/-/spiel/032BCJORF8000000VS5
+ 489BTVU989P58
+URL:https://www.fussball.de/spiel/sg-wiking-03-offenbach-1-sg-nieder-roden/
+ -/spiel/032BCJORF8000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f72afa0cb60887adaeeadfb96da11927ec27038b1d8ba14f7ad1c1af37dd5d4@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261028T180000
+DTEND;TZID=Europe/Berlin:20261028T194500
+SUMMARY:SG Nieder-Roden - 1. FC Langen I
+DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/sg-nieder
+ -roden-1-fc-langen-i/-/spiel/031CJTKGAG000000VS5489BTVUS470OH
+URL:https://www.fussball.de/spiel/sg-nieder-roden-1-fc-langen-i/-/spiel/031
+ CJTKGAG000000VS5489BTVUS470OH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b955ad6b2af6f874b3d06ac26a35a5bdeb3dc34f7a47b1726178ddc031380a9@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261031T100000
+DTEND;TZID=Europe/Berlin:20261031T114500
+SUMMARY:SG Nieder-Roden - Gemaa Tempelsee OF
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-nieder-roden-gemaa-tempelsee-of/-/spiel/032BCJORSO000000VS5489BTV
+ U989P58
+URL:https://www.fussball.de/spiel/sg-nieder-roden-gemaa-tempelsee-of/-/spie
+ l/032BCJORSO000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8542bc23baab2bbdee0cdd36a7047eb13b3280e5467d70dd6df78489c4994779@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261107T120000
+DTEND;TZID=Europe/Berlin:20261107T134500
+SUMMARY:JFV Hainb-Seligenst - SG Nieder-Roden
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/jfv-hainb-seligenst-sg-nieder-roden/-/spiel/032BCJOS00000000VS5489BT
+ VU989P58
+URL:https://www.fussball.de/spiel/jfv-hainb-seligenst-sg-nieder-roden/-/spi
+ el/032BCJOS00000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:15bed373a2f3999edffcdde2f9936e5e5d8c2ae1de88d709812ddf98f853cfb3@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261114T100000
+DTEND;TZID=Europe/Berlin:20261114T114500
+SUMMARY:SG Nieder-Roden - TSV Dudenhofen I
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-nieder-roden-tsv-dudenhofen-i/-/spiel/032BCJOS84000000VS5489BTVU9
+ 89P58
+URL:https://www.fussball.de/spiel/sg-nieder-roden-tsv-dudenhofen-i/-/spiel/
+ 032BCJOS84000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe568d212ea209ddfccf69f76d15cbd36bb4362da0bf5887b504f685c3212fcc@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261121T104500
+DTEND;TZID=Europe/Berlin:20261121T123000
+SUMMARY:JFV Seligenstadt - SG Nieder-Roden
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/jfv-seligenstadt-sg-nieder-roden/-/spiel/032BCJOSE0000000VS5489BTVU9
+ 89P58
+URL:https://www.fussball.de/spiel/jfv-seligenstadt-sg-nieder-roden/-/spiel/
+ 032BCJOSE0000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4edf04eaef5358f6b438d767342c625ff6c0273f672ee89441b3c23921990f18@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20261128T100000
+DTEND;TZID=Europe/Berlin:20261128T114500
+SUMMARY:SG Nieder-Roden - SVG Steinheim
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-nieder-roden-svg-steinheim/-/spiel/032BCJOSKK000000VS5489BTVU989P
+ 58
+URL:https://www.fussball.de/spiel/sg-nieder-roden-svg-steinheim/-/spiel/032
+ BCJOSKK000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7792951013f04e82fd251a0da136e38c017ffd9d2e7a275c14d87ad0282d21@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20270213T100000
+DTEND;TZID=Europe/Berlin:20270213T114500
+SUMMARY:JFV 2014 Dreieich - SG Nieder-Roden
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/jfv-2014-dreieich-sg-nieder-roden/-/spiel/032BCJOSPC000000VS5489BTVU
+ 989P58
+URL:https://www.fussball.de/spiel/jfv-2014-dreieich-sg-nieder-roden/-/spiel
+ /032BCJOSPC000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:225ddf1d007d55d79b00432610449a47f242a86830b05a385c243e25bc45b268@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20270220T100000
+DTEND;TZID=Europe/Berlin:20270220T114500
+SUMMARY:SG Nieder-Roden - TSV Heusenstamm
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-nieder-roden-tsv-heusenstamm/-/spiel/032BCJOT44000000VS5489BTVU98
+ 9P58
+URL:https://www.fussball.de/spiel/sg-nieder-roden-tsv-heusenstamm/-/spiel/0
+ 32BCJOT44000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ef44e819cde1fa6df7f042660f036defbd5b727700b02834f3a00901ecc34c@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261021T183423Z
+DTSTART;TZID=Europe/Berlin:20270227T110000
+DTEND;TZID=Europe/Berlin:20270227T124500
+SUMMARY:SG Egelsbach - SG Nieder-Roden
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-egelsbach-sg-nieder-roden/-/spiel/032BCJOT5G000000VS5489BTVU989P5
+ 8
+URL:https://www.fussball.de/spiel/sg-egelsbach-sg-nieder-roden/-/spiel/032B
+ CJOT5G000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
