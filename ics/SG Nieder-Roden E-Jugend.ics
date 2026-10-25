@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:504adc83605e77506b5d593394326a22c5579f855967968d990c36a71c279060@fussba
- ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
-DTSTART;TZID=Europe/Berlin:20260815T100000
-DTEND;TZID=Europe/Berlin:20260815T114500
-SUMMARY:SG Nieder-Roden - SG Wiking 03 Offenbach 1 (9:4)
-DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/sg-nieder
- -roden-sg-wiking-03-offenbach-1/-/spiel/031CJPUGG4000000VS5489BTVUS470OH
-URL:https://www.fussball.de/spiel/sg-nieder-roden-sg-wiking-03-offenbach-1/
- -/spiel/031CJPUGG4000000VS5489BTVUS470OH
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:bdc340bc7ea2aed8f7308b9f4fe1919f028c5e728c6c320b09666d196b857d1c@fussba
  ll-spielplan-kalender
 DTSTAMP:20261021T183423Z
@@ -170,10 +156,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4800455c3406daaa1b874b99dc2407e4649d7bde23ca1a61457510a9c045761a@fussba
  ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
+DTSTAMP:20261025T093136Z
 DTSTART;TZID=Europe/Berlin:20261024T113000
 DTEND;TZID=Europe/Berlin:20261024T131500
-SUMMARY:SG Wiking 03 Offenbach 1 - SG Nieder-Roden
+SUMMARY:SG Wiking 03 Offenbach 1 - SG Nieder-Roden (0:3)
 DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  spiel/sg-wiking-03-offenbach-1-sg-nieder-roden/-/spiel/032BCJORF8000000VS5
  489BTVU989P58
@@ -313,6 +299,21 @@ DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  8
 URL:https://www.fussball.de/spiel/sg-egelsbach-sg-nieder-roden/-/spiel/032B
  CJOT5G000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f77ae990a23671b21c8ead94d9b3945030d8339afcbd6effb4de50e8ac77cfa@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261025T093136Z
+DTSTART;TZID=Europe/Berlin:20270306T100000
+DTEND;TZID=Europe/Berlin:20270306T114500
+SUMMARY:SG Nieder-Roden - SG Wiking 03 Offenbach 1
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-nieder-roden-sg-wiking-03-offenbach-1/-/spiel/032BCJOTDK000000VS5
+ 489BTVU989P58
+URL:https://www.fussball.de/spiel/sg-nieder-roden-sg-wiking-03-offenbach-1/
+ -/spiel/032BCJOTDK000000VS5489BTVU989P58
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
