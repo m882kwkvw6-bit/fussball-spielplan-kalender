@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bdc340bc7ea2aed8f7308b9f4fe1919f028c5e728c6c320b09666d196b857d1c@fussba
- ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
-DTSTART;TZID=Europe/Berlin:20260822T120000
-DTEND;TZID=Europe/Berlin:20260822T134500
-SUMMARY:S.K.G Rodgau - SG Nieder-Roden (8:2)
-DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/skg-rodg
- au-sg-nieder-roden/-/spiel/031FP6ITM4000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/skg-rodgau-sg-nieder-roden/-/spiel/031FP6
- ITM4000000VS5489BTVVG7L386
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:e2ca51aff712c06fcc7d2a2c2dcc08906293a01acc8b881cb3e34b4c6cb0f84a@fussba
  ll-spielplan-kalender
 DTSTAMP:20261021T183423Z
@@ -171,10 +157,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9f72afa0cb60887adaeeadfb96da11927ec27038b1d8ba14f7ad1c1af37dd5d4@fussba
  ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
+DTSTAMP:20261029T111318Z
 DTSTART;TZID=Europe/Berlin:20261028T180000
 DTEND;TZID=Europe/Berlin:20261028T194500
-SUMMARY:SG Nieder-Roden - 1. FC Langen I
+SUMMARY:SG Nieder-Roden - 1. FC Langen I (1:7)
 DESCRIPTION:Wettbewerb: Kreispokal\nhttps://www.fussball.de/spiel/sg-nieder
  -roden-1-fc-langen-i/-/spiel/031CJTKGAG000000VS5489BTVUS470OH
 URL:https://www.fussball.de/spiel/sg-nieder-roden-1-fc-langen-i/-/spiel/031
@@ -314,6 +300,21 @@ DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  489BTVU989P58
 URL:https://www.fussball.de/spiel/sg-nieder-roden-sg-wiking-03-offenbach-1/
  -/spiel/032BCJOTDK000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d86316d111afa60868b5ac00ccb12a633f80c85063d007a204781c03198953b3@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261029T111318Z
+DTSTART;TZID=Europe/Berlin:20270313T100000
+DTEND;TZID=Europe/Berlin:20270313T114500
+SUMMARY:Gemaa Tempelsee OF - SG Nieder-Roden
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/gemaa-tempelsee-of-sg-nieder-roden/-/spiel/032BCJOU0C000000VS5489BTV
+ U989P58
+URL:https://www.fussball.de/spiel/gemaa-tempelsee-of-sg-nieder-roden/-/spie
+ l/032BCJOU0C000000VS5489BTVU989P58
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
