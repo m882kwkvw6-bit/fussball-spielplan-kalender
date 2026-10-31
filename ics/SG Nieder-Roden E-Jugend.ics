@@ -171,10 +171,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9b955ad6b2af6f874b3d06ac26a35a5bdeb3dc34f7a47b1726178ddc031380a9@fussba
  ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
+DTSTAMP:20261031T104108Z
 DTSTART;TZID=Europe/Berlin:20261031T100000
 DTEND;TZID=Europe/Berlin:20261031T114500
-SUMMARY:SG Nieder-Roden - Gemaa Tempelsee OF
+SUMMARY:SG Nieder-Roden - Gemaa Tempelsee OF (1:5)
 DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  spiel/sg-nieder-roden-gemaa-tempelsee-of/-/spiel/032BCJORSO000000VS5489BTV
  U989P58
