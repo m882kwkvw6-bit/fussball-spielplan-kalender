@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e2ca51aff712c06fcc7d2a2c2dcc08906293a01acc8b881cb3e34b4c6cb0f84a@fussba
- ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
-DTSTART;TZID=Europe/Berlin:20260830T110000
-DTEND;TZID=Europe/Berlin:20260830T124500
-SUMMARY:SG Nieder-Roden - S.K.G Rodgau (2:7)
-DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
- piel/sg-nieder-roden-skg-rodgau/-/spiel/031SFH8KLK000000VS5489BUVVE0O1R6
-URL:https://www.fussball.de/spiel/sg-nieder-roden-skg-rodgau/-/spiel/031SFH
- 8KLK000000VS5489BUVVE0O1R6
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:605474b847f18fc5900c31a8e930c1db7e090534c72ef95eb277e66e13ea6f6d@fussba
  ll-spielplan-kalender
 DTSTAMP:20261021T183423Z
@@ -315,6 +301,21 @@ DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  U989P58
 URL:https://www.fussball.de/spiel/gemaa-tempelsee-of-sg-nieder-roden/-/spie
  l/032BCJOU0C000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:40a52fa4dcb5e1b628d9c5b6f902d7a202f56f868ab912a08e503a2be5e88b1b@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261101T113627Z
+DTSTART;TZID=Europe/Berlin:20270320T100000
+DTEND;TZID=Europe/Berlin:20270320T114500
+SUMMARY:SG Nieder-Roden - JFV Hainb-Seligenst
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-nieder-roden-jfv-hainb-seligenst/-/spiel/032BCJOU78000000VS5489BT
+ VU989P58
+URL:https://www.fussball.de/spiel/sg-nieder-roden-jfv-hainb-seligenst/-/spi
+ el/032BCJOU78000000VS5489BTVU989P58
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
