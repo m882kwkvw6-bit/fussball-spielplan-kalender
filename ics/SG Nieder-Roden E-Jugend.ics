@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:605474b847f18fc5900c31a8e930c1db7e090534c72ef95eb277e66e13ea6f6d@fussba
- ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
-DTSTART;TZID=Europe/Berlin:20260902T180000
-DTEND;TZID=Europe/Berlin:20260902T194500
-SUMMARY:SG Nieder-Roden - Gemaa Tempelsee OF (1:8)
-DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/sg-niede
- r-roden-gemaa-tempelsee-of/-/spiel/031FP6IU80000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sg-nieder-roden-gemaa-tempelsee-of/-/spie
- l/031FP6IU80000000VS5489BTVVG7L386
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:9d5eba6291d4dd0973957e8ae7f0975f0625819247d9ef26d6dbacd7cd6e7db8@fussba
  ll-spielplan-kalender
 DTSTAMP:20261021T183423Z
@@ -172,10 +158,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8542bc23baab2bbdee0cdd36a7047eb13b3280e5467d70dd6df78489c4994779@fussba
  ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
+DTSTAMP:20261108T113806Z
 DTSTART;TZID=Europe/Berlin:20261107T120000
 DTEND;TZID=Europe/Berlin:20261107T134500
-SUMMARY:JFV Hainb-Seligenst - SG Nieder-Roden
+SUMMARY:JFV Hainb-Seligenst - SG Nieder-Roden (3:3)
 DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  spiel/jfv-hainb-seligenst-sg-nieder-roden/-/spiel/032BCJOS00000000VS5489BT
  VU989P58
@@ -316,6 +302,21 @@ DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  VU989P58
 URL:https://www.fussball.de/spiel/sg-nieder-roden-jfv-hainb-seligenst/-/spi
  el/032BCJOU78000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c5895ff7e6d2c5620f31eaf3d92dc46ad618765015170746269db067cea301c@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261108T113806Z
+DTSTART;TZID=Europe/Berlin:20270410T110000
+DTEND;TZID=Europe/Berlin:20270410T124500
+SUMMARY:TSV Dudenhofen I - SG Nieder-Roden
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/tsv-dudenhofen-i-sg-nieder-roden/-/spiel/032BCJOUKK000000VS5489BTVU9
+ 89P58
+URL:https://www.fussball.de/spiel/tsv-dudenhofen-i-sg-nieder-roden/-/spiel/
+ 032BCJOUKK000000VS5489BTVU989P58
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
