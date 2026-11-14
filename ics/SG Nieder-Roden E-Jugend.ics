@@ -173,10 +173,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:15bed373a2f3999edffcdde2f9936e5e5d8c2ae1de88d709812ddf98f853cfb3@fussba
  ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
+DTSTAMP:20261114T115317Z
 DTSTART;TZID=Europe/Berlin:20261114T100000
 DTEND;TZID=Europe/Berlin:20261114T114500
-SUMMARY:SG Nieder-Roden - TSV Dudenhofen I
+SUMMARY:SG Nieder-Roden - TSV Dudenhofen I (2:2)
 DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  spiel/sg-nieder-roden-tsv-dudenhofen-i/-/spiel/032BCJOS84000000VS5489BTVU9
  89P58
