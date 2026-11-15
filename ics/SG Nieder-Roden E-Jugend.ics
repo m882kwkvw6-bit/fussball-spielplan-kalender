@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9d5eba6291d4dd0973957e8ae7f0975f0625819247d9ef26d6dbacd7cd6e7db8@fussba
- ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
-DTSTART;TZID=Europe/Berlin:20260905T130000
-DTEND;TZID=Europe/Berlin:20260905T144500
-SUMMARY:SKG Rumpenheim - SG Nieder-Roden (2:3)
-DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/skg-rump
- enheim-sg-nieder-roden/-/spiel/031FP6ITSG000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/skg-rumpenheim-sg-nieder-roden/-/spiel/03
- 1FP6ITSG000000VS5489BTVVG7L386
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:a17e8982941b00071cc6843785e02b723dc624dad246569d6e684d41db34669f@fussba
  ll-spielplan-kalender
 DTSTAMP:20261021T183423Z
@@ -317,6 +303,21 @@ DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  89P58
 URL:https://www.fussball.de/spiel/tsv-dudenhofen-i-sg-nieder-roden/-/spiel/
  032BCJOUKK000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:87486b600066ff95670db1f0f69d1efc38885ba45f27683e1cbf9dfac1f8f9f9@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261115T122528Z
+DTSTART;TZID=Europe/Berlin:20270417T100000
+DTEND;TZID=Europe/Berlin:20270417T114500
+SUMMARY:SG Nieder-Roden - JFV Seligenstadt
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/sg-nieder-roden-jfv-seligenstadt/-/spiel/032BCJOUT8000000VS5489BTVU9
+ 89P58
+URL:https://www.fussball.de/spiel/sg-nieder-roden-jfv-seligenstadt/-/spiel/
+ 032BCJOUT8000000VS5489BTVU989P58
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
