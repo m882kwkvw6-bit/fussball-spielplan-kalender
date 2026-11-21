@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a17e8982941b00071cc6843785e02b723dc624dad246569d6e684d41db34669f@fussba
- ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
-DTSTART;TZID=Europe/Berlin:20260912T100000
-DTEND;TZID=Europe/Berlin:20260912T114500
-SUMMARY:SG Nieder-Roden - TSV Dudenhofen I (2:2)
-DESCRIPTION:Wettbewerb: Kreisliga A\nhttps://www.fussball.de/spiel/sg-niede
- r-roden-tsv-dudenhofen-i/-/spiel/031FP6ITUG000000VS5489BTVVG7L386
-URL:https://www.fussball.de/spiel/sg-nieder-roden-tsv-dudenhofen-i/-/spiel/
- 031FP6ITUG000000VS5489BTVVG7L386
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:feeb8bfff0e7130e6ab6ad5fc4a9e74b9bc006195a4e7419cd1250aa0b815c40@fussba
  ll-spielplan-kalender
 DTSTAMP:20261021T183423Z
@@ -174,10 +160,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fe568d212ea209ddfccf69f76d15cbd36bb4362da0bf5887b504f685c3212fcc@fussba
  ll-spielplan-kalender
-DTSTAMP:20261021T183423Z
+DTSTAMP:20261121T131113Z
 DTSTART;TZID=Europe/Berlin:20261121T104500
 DTEND;TZID=Europe/Berlin:20261121T123000
-SUMMARY:JFV Seligenstadt - SG Nieder-Roden
+SUMMARY:JFV Seligenstadt - SG Nieder-Roden (1:7)
 DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  spiel/jfv-seligenstadt-sg-nieder-roden/-/spiel/032BCJOSE0000000VS5489BTVU9
  89P58
@@ -318,6 +304,21 @@ DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  89P58
 URL:https://www.fussball.de/spiel/sg-nieder-roden-jfv-seligenstadt/-/spiel/
  032BCJOUT8000000VS5489BTVU989P58
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:928bece482b6408cabf2132e26eeb2269142b7138766f055ca8005d8ed25bf43@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261121T131113Z
+DTSTART;TZID=Europe/Berlin:20270424T110000
+DTEND;TZID=Europe/Berlin:20270424T124500
+SUMMARY:SVG Steinheim - SG Nieder-Roden
+DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
+ spiel/svg-steinheim-sg-nieder-roden/-/spiel/032BCJOV5S000000VS5489BTVU989P
+ 58
+URL:https://www.fussball.de/spiel/svg-steinheim-sg-nieder-roden/-/spiel/032
+ BCJOV5S000000VS5489BTVU989P58
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
