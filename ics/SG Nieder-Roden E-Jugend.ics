@@ -188,6 +188,21 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:6a423d34baf5d44d54fbf2f39d8a44867db7abe64c638e14612a33ff91fc9715@fussba
+ ll-spielplan-kalender
+DTSTAMP:20261124T152736Z
+DTSTART;TZID=Europe/Berlin:20261207T180000
+DTEND;TZID=Europe/Berlin:20261207T194500
+SUMMARY:SG Nieder-Roden - FC Dietzenbach II
+DESCRIPTION:Wettbewerb: Kreisfreundschaftsspiele\nhttps://www.fussball.de/s
+ piel/sg-nieder-roden-fc-dietzenbach-ii/-/spiel/032Q41P9U4000000VS5489BUVT7
+ T9F23
+URL:https://www.fussball.de/spiel/sg-nieder-roden-fc-dietzenbach-ii/-/spiel
+ /032Q41P9U4000000VS5489BUVT7T9F23
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:9b7792951013f04e82fd251a0da136e38c017ffd9d2e7a275c14d87ad0282d21@fussba
  ll-spielplan-kalender
 DTSTAMP:20261021T183423Z
@@ -304,21 +319,6 @@ DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
  89P58
 URL:https://www.fussball.de/spiel/sg-nieder-roden-jfv-seligenstadt/-/spiel/
  032BCJOUT8000000VS5489BTVU989P58
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:928bece482b6408cabf2132e26eeb2269142b7138766f055ca8005d8ed25bf43@fussba
- ll-spielplan-kalender
-DTSTAMP:20261121T131113Z
-DTSTART;TZID=Europe/Berlin:20270424T110000
-DTEND;TZID=Europe/Berlin:20270424T124500
-SUMMARY:SVG Steinheim - SG Nieder-Roden
-DESCRIPTION:Wettbewerb: 1.Kreisklasse/Kreisklasse\nhttps://www.fussball.de/
- spiel/svg-steinheim-sg-nieder-roden/-/spiel/032BCJOV5S000000VS5489BTVU989P
- 58
-URL:https://www.fussball.de/spiel/svg-steinheim-sg-nieder-roden/-/spiel/032
- BCJOV5S000000VS5489BTVU989P58
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
